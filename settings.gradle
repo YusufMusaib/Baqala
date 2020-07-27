@@ -1,0 +1,2 @@
+rootProject.name='Baqala - OnlineStore'
+include ':app'
